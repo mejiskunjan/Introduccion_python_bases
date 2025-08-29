@@ -1,6 +1,6 @@
 # Python para Principiantes: Básicos, NumPy y Pandas
 
-Este repositorio reúne ejercicios y notebooks para quienes llevan unas dos semanas programando en Python. Aprenderás desde los conceptos fundamentales del lenguaje hasta el uso de las librerías NumPy y Pandas para el análisis de datos.
+Este repositorio reúne ejercicios y notebooks desarrollados específicamente para los alumnos del Máster en IA y Computación Cuántica aplicada a los mercados financieros (MIAX). Se aprenderá desde los conceptos fundamentales del lenguaje hasta el uso de las librerías NumPy y Pandas para el análisis de datos.
 
 ---
 
@@ -16,11 +16,3 @@ Este repositorio reúne ejercicios y notebooks para quienes llevan unas dos sema
 - **NumPy.ipynb**: Teoría de arrays, creación, atributos, operaciones básicas, slicing y mini-ejercicios.  
 - **Pandas.ipynb**: Series, DataFrames, creación, atributos, operaciones, indexación y filtrado.
 
----
-
-## 🚀 Cómo empezar
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/TU_USUARIO/NOMBRE_REPO.git
-   cd NOMBRE_REPO
