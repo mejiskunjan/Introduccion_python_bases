@@ -16,5 +16,6 @@ Este repositorio reúne ejercicios y notebooks desarrollados específicamente pa
 - **NumPy.ipynb**: Teoría de arrays, creación, atributos, operaciones básicas, slicing y mini-ejercicios.  
 - **Pandas.ipynb**: Series, DataFrames, creación, atributos, operaciones, indexación y filtrado.
 
+![Logo del proyecto](Bases/imgs/Logo.png)
 
 
